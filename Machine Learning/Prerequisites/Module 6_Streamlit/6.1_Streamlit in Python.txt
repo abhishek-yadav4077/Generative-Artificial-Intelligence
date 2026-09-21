@@ -1,0 +1,10 @@
+1. streamlit.io
+2. streamlit documentations
+
+
+- run command in command prompt in vs code
+pip install streamlit - it will install streamlit
+
+	
+streamlit run <file name>
+e.g. streamlit run app.py

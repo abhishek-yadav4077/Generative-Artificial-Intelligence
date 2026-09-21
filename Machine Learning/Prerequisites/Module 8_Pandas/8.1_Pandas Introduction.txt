@@ -1,0 +1,13 @@
+refer to vs code .ipynb
+
+Pandas
+- Pandas is a powerful library used for data manipulation and analysis.
+- It helps us to work with data in tabular fromat, just like how we deal with data and spreadsheet in excel or database.
+
+- Pandas provides functionalities and attributes to clean, organize and analyse large amount of data
+
+1. Easy to use --> works like excel in python
+2. Fast --> handles large data faster than manual methods
+3. Clean data --> helps clean, filter and transform messy data
+4. Integrates well --> matplotlib, seaborn
+5. Ideal for AI and ML --> it is ideal for data science
